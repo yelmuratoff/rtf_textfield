@@ -1,0 +1,19 @@
+name: rtf_textfield
+description: Flutter custom widget to create Rich TextField. It includes textspan for hint, label. Control the text style with RichTextController.
+version: 1.0.1
+homepage: https://github.com/K1yoshiSho/rtf_textfield.git
+
+environment:
+  sdk: '>=3.2.5 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
